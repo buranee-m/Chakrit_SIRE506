@@ -29,4 +29,4 @@
 | What is Brugada syndrome, and how has it been associated with cases of sudden unexpected death in Thai survivors? | Brugada syndrome |
 | Why is including the victims who died from those identifiable causes will make the study bias | Statistcal analyses |
 | How do researchers determine which genetic variants are likely benign versus those that are pathogenic in SUDS cases | Genetic Variants |
-| Why is the investigation of specific genes related to SUDS essential in understanding the sudden death in Thai victims? |  |
+| Why is the investigation of specific genes related to SUDS essential in understanding the sudden death in Thai victims? | Genetic Risk Factors for Cardiovascular Diseases |
