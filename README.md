@@ -22,4 +22,11 @@
 |----------------------------|----------------------------------------|
 | How investigate whole exome sequencing (WES) can assume to the cause of Sudden unexpected death syndrome (SUDS) in Thai victims  | Whole Exome Sequencing (WES) Methodology |
 | Why in this article need to pay more attention to the lesions in the heart and surrounding vascular tissues | Sudden Cardiac Death |
-|  |  |
+| How to chooses the candidates in detail | Sampling method |
+| Is the step that exclude known variants reported are important | Variant filtration |
+| How to chooses the candidated for non-SUDS thai patients | Sampling method |
+| Why the death from autopsy were identified as SUDS | Autopsy |
+| What is Brugada syndrome, and how has it been associated with cases of sudden unexpected death in Thai survivors? | Brugada syndrome |
+| Why is including the victims who died from those identifiable causes will make the study bias | Statistcal analyses |
+| How do researchers determine which genetic variants are likely benign versus those that are pathogenic in SUDS cases | Genetic Variants |
+| Why is the investigation of specific genes related to SUDS essential in understanding the sudden death in Thai victims? |  |
