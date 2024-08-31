@@ -14,7 +14,6 @@
 | In this research use the p value <0.05 was considered statistically significant, so I wonder that can we adjust the p value? if it can when it should be adjust? Is it gonna make the research be less reliable? | Statistcal analyses | 
 | How Cordell's test can be use to performed the interaction between PON1 variants and CYP2C19*2 and *3 | Epistasis and Gene-Gene Interactions |
 | How to choose the models to performed the interaction between two genes| Epistasis and Gene-Gene Interactions |
-| What is the forensic autopsy and how it can |  |
 
 ### Molecular investigation by whole exome sequencing revealed a high proportion of pathogenic variants among Thai victims of sudden unexpected death syndrome
 
