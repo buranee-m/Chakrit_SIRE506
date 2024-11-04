@@ -3,7 +3,20 @@ title: "Titanic Exploratoin"
 author: "Chakrit Jiarasatit"
 date: "2024-09-12"
 output: word_document
+editor_option:
+  markdown:
+    wrap: 72
 ---
+```{r}
+options(repos = c(CRAN = "https://cloud.r-project.org"))
+```
+
+### Install tidyverse and gtsummary packages
+```{r}
+install.packages("tidyverse")
+install.packages("gtsummary")
+```
+
 ### Dowload essential packages
 ```{r}
 library(tidyverse)
