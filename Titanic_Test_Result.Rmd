@@ -1,0 +1,11 @@
+---
+title: "Titanic_Test"
+output: html_document
+date: "2024-11-08"
+---
+
+# Test: ✅Pass
+
+# RProject: ✅Found
+
+# Rmarkdoen: ✅Knitable
